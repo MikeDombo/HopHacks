@@ -43,7 +43,7 @@ OpenTrckr is a [Node.js](https://nodejs.org/en/)/[Express app](http://expressjs.
 
 ## Developers 
 
-Our awesome team consists of 3 current University of Richmond undergrads, [Alexandru Pana](https://github.com/FFMMM), [Michael Dombrowski](https://github.com/md100play), [Shiv Toolsidass (Myself :) )](https://github.com/shivtools) and [Otega Owho-Ovuakporie](https://github.com/otegaoo) of Lincoln University, PA. We came to [HopHacks](http://hophacks.com/), consumed far too much redbull/junk food and coded the weekend away - a wonderful experience overall! We hope that you find OpenTrckr useful and that our app will benefit people. We plan on extending the functionality of the app in the future - more to come! 
+Our awesome team consists of 3 current University of Richmond undergrads, [Alexandru Pana](https://github.com/FFMMM), [Michael Dombrowski](https://github.com/MikeDombo), [Shiv Toolsidass (Myself :) )](https://github.com/shivtools) and [Otega Owho-Ovuakporie](https://github.com/otegaoo) of Lincoln University, PA. We came to [HopHacks](http://hophacks.com/), consumed far too much redbull/junk food and coded the weekend away - a wonderful experience overall! We hope that you find OpenTrckr useful and that our app will benefit people. We plan on extending the functionality of the app in the future - more to come! 
 
 
 ## Citations
